@@ -1,24 +1,24 @@
-Bitcoin Core integration/staging tree
+Blockchain Core integration/staging tree
 =====================================
 
-https://bitcoincore.org
+https://blockchaincore.net
 
-For an immediately usable, binary version of the Bitcoin Core software, see
-https://bitcoincore.org/en/download/.
+For an immediately usable, binary version of the Blockchain Core software, see
+https://blockchaincore.net/en/download/.
 
-What is Bitcoin Core?
+What is Blockchain Core?
 ---------------------
 
-Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully
+Blockchain Core connects to the Bitcoin peer-to-peer network to download and fully
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
-Further information about Bitcoin Core is available in the [doc folder](/doc).
+Further information about Blockchain Core is available in the [doc folder](/doc).
 
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Blochcain Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -26,9 +26,9 @@ Development Process
 
 The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
 completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly from release branches to indicate new official, stable release versions of Bitcoin Core.
+regularly from release branches to indicate new official, stable release versions of Blockchain Core.
 
-The https://github.com/bitcoin-core/gui repository is used exclusively for the
+The https://github.com/blockchain-core/gui repository is used exclusively for the
 development of the GUI. Its master branch is identical in all monotree
 repositories. Release branches and tags do not exist, so please do not fork
 that repository unless it is for development reasons.
@@ -76,3 +76,21 @@ Translations are periodically pulled from Transifex and merged into the git repo
 
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
+
+Copyrights Information: Blockchain core first implementation is tested on Bitcoin Project by 
+Satoshi Nakamoto, which is known as Bitcoin Network and the Software Client name is Bitcoin Core.
+The building block of Bitcoin Core is the Blockchain technology that uses Cryptographic protocol 
+SHA-256 to develop on chain hash to crate the Bitcoin Blockchain.
+
+Bitcoin and Blockchain copyrights are protected by its inventor and it was first released under 
+the MIT Open Source Licene. 
+
+Forking: Forking of Bitcoin Blockchain is not permitted but any one can clone the Code and create 
+Altcoin, which Satoshi Nakamoto permitted. Forking Bitcoin Blockchain is a violation, and it can 
+lead to a legal dispute, which can proceed to a corporate litigation.  Therefore, it is advised to 
+respect the inventors Copyrights and Cloning Forking Protocols.
+
+Integration of Bitcoin and Bitcoin Core in Blockchain Core is upgraded by its inventor and owner,
+Satoshi Nakamoto. 
+
+
